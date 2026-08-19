@@ -3,7 +3,6 @@
 > A full-stack hotel listings and booking web app built as a major project.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-6c63ff?style=for-the-badge&logo=render)](https://drifthaus-hotel-booking-system.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Aayush-Karthikeyan/drifthaus-hotel-booking-system)
 ![Node.js](https://img.shields.io/badge/Node.js-22+-339933?style=for-the-badge&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express-5-000000?style=for-the-badge&logo=express)
